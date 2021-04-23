@@ -1,0 +1,7 @@
+###
+#这是配置文件
+##
+StoneStatue:
+  whetherToEnable: true
+  updata: true
+
